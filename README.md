@@ -1,6 +1,6 @@
 # Finance App
 
-App financeiro com dashboard e detalhes de transação. **O objetivo deste app é demonstrar o uso da biblioteca de Design System [Ruan Design System](https://github.com/ruanr/Ruan-Design-System)** — mostrando na prática como a lib facilita o desenvolvimento com componentes e tokens reutilizáveis.
+App financeiro com dashboard e detalhes de transação. **O objetivo deste app é demonstrar o uso da biblioteca de Design System [Ruan Design System](https://github.com/romulorq20/ruan-design-system)** — mostrando na prática como a lib facilita o desenvolvimento com componentes e tokens reutilizáveis.
 
 ---
 
