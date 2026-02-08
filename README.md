@@ -89,3 +89,11 @@ Projeto configurado para Android. Para adicionar iOS, na pasta do app:
 ```bash
 flutter create . --platforms=ios
 ```
+
+---
+
+## Demonstração
+
+Vídeo da tela do app em uso (coloque seu arquivo `.webm` na raiz do projeto como `demo.webm`):
+
+<video src="demo.webm" controls width="320" style="max-width: 100%;"></video>
