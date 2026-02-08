@@ -94,6 +94,6 @@ flutter create . --platforms=ios
 
 ## Demonstração
 
-Vídeo da tela do app em uso (coloque seu arquivo `.webm` na raiz do projeto como `demo.webm`):
+Vídeo da tela do app em uso (arquivo `demo.webm` na raiz do repositório):
 
-<video src="demo.webm" controls width="320" style="max-width: 100%;"></video>
+<video src="https://github.com/romulorq20/finance-app/raw/main/demo.webm" controls width="320" style="max-width: 100%;"></video>
