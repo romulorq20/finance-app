@@ -96,4 +96,4 @@ flutter create . --platforms=ios
 
 Vídeo da tela do app em uso (arquivo `demo.webm` na raiz do repositório):
 
-<video src="https://github.com/romulorq20/finance-app/raw/main/demo.webm" controls width="320" style="max-width: 100%;"></video>
+<video src="https://github.com/romulorq20/finance-app/demo.webm" controls width="320" style="max-width: 100%;"></video>
