@@ -94,6 +94,8 @@ flutter create . --platforms=ios
 
 ## Demonstração
 
-Vídeo da tela do app em uso (arquivo `demo.webm` na raiz do repositório):
+Screenshots do app:
 
-<video src="https://github.com/romulorq20/finance-app/demo.webm" controls width="320" style="max-width: 100%;"></video>
+| Dashboard | Detalhes da transação |
+|-----------|------------------------|
+| ![Dashboard](screenshot/tela1.png) | ![Detalhes](screenshot/tela2.png) |
